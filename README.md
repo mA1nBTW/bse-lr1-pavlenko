@@ -13,6 +13,6 @@
 
 ## Встановлення та запуск
 ```bash
-git clone [https://github.com/mA1nBTW/bse-lr1-pavlenko.git](https://github.com/mA1nBTW/bse-lr1-pavlenko.git)
+git clone https://github.com/mA1nBTW/bse-lr1-pavlenko.git
 cd bse-lr1-pavlenko
 python user.py
