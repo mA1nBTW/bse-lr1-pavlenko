@@ -5,11 +5,11 @@
 ## Автор
 
 - **Павленко Михайло**, група ПЗПІ-25-3
-- Email: твій_email@nure.ua
+- Email: mykhailo.pavlenko@nure.ua
 
 ## Технології
 
-- Мова програмування: C#
+- Мова програмування: Python
 - IDE: Visual Studio Code
 - VCS: Git + GitHub
 - AI-асистент: GitHub Copilot
@@ -17,6 +17,6 @@
 ## Встановлення та запуск
 
 ```bash
-git clone [https://github.com/твій_ник/bse-lr1-pavlenko.git](https://github.com/твій_ник/bse-lr1-pavlenko.git)
+git clone [https://github.com/твій_ник/bse-lr1-pavlenko.git](https://github.com/mA1nBTW/bse-lr1-pavlenko.git)
 cd bse-lr1-pavlenko
 dotnet run
